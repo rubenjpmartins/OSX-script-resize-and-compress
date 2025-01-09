@@ -15,18 +15,7 @@ This repository contains two shell scripts for resizing images to `1200x630` pix
 
 ## Usage
 
-Make the scripts executable:
-chmod +x resize_and_compress.sh resize_and_compress_no_delete.sh
-
-
-Run the desired script:
-./resize_and_compress.sh
-
-
-
 ### Prerequisites
 - Ensure `ImageMagick` is installed. Install it using:
   ```bash
   brew install imagemagick
-
-
